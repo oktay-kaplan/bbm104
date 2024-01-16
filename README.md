@@ -4,4 +4,4 @@
 
 ---
 
-### BBM104 - Introduction to Programming Laboratuary Course
+### BBM104 - Java-OOP
